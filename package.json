@@ -1,0 +1,18 @@
+{
+  "name": "e-syncme-cli",
+  "version": "0.1.4",
+  "description": "The cli for e-syncme.",
+  "main": "index.js",
+  "bin": {
+    "syncme": "lib/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eki",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
