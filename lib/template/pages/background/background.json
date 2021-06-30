@@ -1,4 +1,4 @@
 {
-  "matches": ["*://*eki.space/*"],
+  "matches": ["*://*.eki.space/*"],
   "run_at": "document_idle"
 }
