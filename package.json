@@ -1,6 +1,6 @@
 {
   "name": "e-syncme-cli",
-  "version": "0.1.5",
+  "version": "0.1.6-beta",
   "description": "The cli for e-syncme.",
   "main": "index.js",
   "bin": {
